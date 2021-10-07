@@ -6,15 +6,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1caiu&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<!--
+  
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on front- end....
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+public static void main(String args[]){
+
+    Dev me = new Dev();
+
+    me.name = "Caio Gomes";
+    me.years = 26;
+    me.nicknames = "CAIU";
+    me.applications = "Java, CSS, HTML, PHP,
+                        SQL, JavaScript, TypeScript";
+    me.tools = "Git, VSCode, Eclipse, MySQL, 
+                    Spring Boot, Netlify, Heroku";
+    me.skills = "FullStack, SoftSkills, Front-End";
+}
